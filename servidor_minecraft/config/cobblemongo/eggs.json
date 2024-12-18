@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Water egg",
+    "distance": 2000,
+    "pools": [
+      "water"
+    ],
+    "color": 255
+  },
+  {
+    "name": "Fire egg",
+    "distance": 200,
+    "pools": [
+      "fire"
+    ],
+    "color": 11141120
+  }
+]

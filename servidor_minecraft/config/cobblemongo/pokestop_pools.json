@@ -1,0 +1,24 @@
+[
+  {
+    "item": "minecraft:apple",
+    "count": 5,
+    "weight": 10
+  },
+  {
+    "item": "minecraft:diamond",
+    "count": 1,
+    "weight": 2
+  },
+  {
+    "item": "cobblemongo:egg",
+    "count": 1,
+    "nbt": "{\"cobblemongo:key\": \"Water egg\"}",
+    "weight": 20
+  },
+  {
+    "item": "cobblemongo:egg",
+    "count": 1,
+    "nbt": "{\"cobblemongo:key\": \"Fire egg\"}",
+    "weight": 20
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "name": "fire",
+    "pokemon": [
+      {
+        "name": "vulpix",
+        "min": 1,
+        "max": 50,
+        "exactLevel": false,
+        "shinyChance": 2.44140625E-4
+      }
+    ],
+    "commands": [
+      {
+        "commands": [
+          "give @p minecraft:apple",
+          "give @p minecraft:diamond"
+        ],
+        "weight": 1
+      },
+      {
+        "commands": [
+          "effect give @p minecraft:haste"
+        ],
+        "weight": 5
+      }
+    ],
+    "singlePool": false,
+    "pokemonWeight": 1,
+    "commandWeight": 1
+  },
+  {
+    "name": "water",
+    "pokemon": [
+      {
+        "name": "samurott",
+        "min": 5,
+        "max": 5,
+        "exactLevel": true,
+        "form": "hisui",
+        "shinyChance": 2.44140625E-4
+      }
+    ],
+    "commands": [],
+    "singlePool": false,
+    "pokemonWeight": 1,
+    "commandWeight": 1
+  },
+  {
+    "name": "grass",
+    "pokemon": [
+      {
+        "name": "bulbasaur",
+        "min": 5,
+        "max": 6,
+        "exactLevel": false,
+        "shinyChance": 2.44140625E-4
+      }
+    ],
+    "commands": [
+      {
+        "commands": [
+          "give @p minecraft:apple",
+          "give @p minecraft:diamond"
+        ],
+        "weight": 1
+      },
+      {
+        "commands": [
+          "effect give @p minecraft:haste"
+        ],
+        "weight": 5
+      }
+    ],
+    "singlePool": true,
+    "pokemonWeight": 5,
+    "commandWeight": 1
+  }
+]
