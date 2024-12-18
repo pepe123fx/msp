@@ -1,228 +1,589 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1734485106615 tunnel running, 1 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1734485368844 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 feed-celebrity.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734485109672 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734485371972 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 feed-celebrity.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734485112752 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734485375054 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 feed-celebrity.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734485115823 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734485378260 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 feed-celebrity.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734485118883 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734485381330 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 feed-celebrity.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734485121945 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734485384422 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 feed-celebrity.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734485125016 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734485387516 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 feed-celebrity.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734485128091 tunnel running, 1 tunnels registered
+tunnel pending: https://playit.gg/account/tunnels/9fd58fe3-f64d-44ea-af0c-8e57c46878e3
+[2J8[0mplayit (v0.15.26): 1734485390645 tunnel running, 1 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 feed-celebrity.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734485131169 tunnel running, 1 tunnels registered
+tunnel pending: https://playit.gg/account/tunnels/9fd58fe3-f64d-44ea-af0c-8e57c46878e3
+[2J8[0mplayit (v0.15.26): 1734485393729 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
+track-makes.gl.at.ply.gg:1357 => 127.0.0.1:1357 (proto: Udp, port count: 1)
 feed-celebrity.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734485134240 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734485396818 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
+track-makes.gl.at.ply.gg:1357 => 127.0.0.1:1357 (proto: Udp, port count: 1)
 feed-celebrity.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734485137303 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734485399897 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
+track-makes.gl.at.ply.gg:1357 => 127.0.0.1:1357 (proto: Udp, port count: 1)
 feed-celebrity.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734485140363 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734485402981 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
+track-makes.gl.at.ply.gg:1357 => 127.0.0.1:1357 (proto: Udp, port count: 1)
 feed-celebrity.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734485143426 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734485406077 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
+track-makes.gl.at.ply.gg:1357 => 127.0.0.1:1357 (proto: Udp, port count: 1)
 feed-celebrity.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734485146488 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734485409143 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
+track-makes.gl.at.ply.gg:1357 => 127.0.0.1:1357 (proto: Udp, port count: 1)
 feed-celebrity.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734485149565 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734485412205 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
+track-makes.gl.at.ply.gg:1357 => 127.0.0.1:1357 (proto: Udp, port count: 1)
 feed-celebrity.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734485152641 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734485415298 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
+track-makes.gl.at.ply.gg:1357 => 127.0.0.1:1357 (proto: Udp, port count: 1)
 feed-celebrity.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734485155709 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734485418425 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
+track-makes.gl.at.ply.gg:1357 => 127.0.0.1:1357 (proto: Udp, port count: 1)
 feed-celebrity.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734485158795 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734485421499 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
+track-makes.gl.at.ply.gg:1357 => 127.0.0.1:1357 (proto: Udp, port count: 1)
 feed-celebrity.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734485161872 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734485424562 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
+track-makes.gl.at.ply.gg:1357 => 127.0.0.1:1357 (proto: Udp, port count: 1)
 feed-celebrity.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734485164962 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734485427623 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
+track-makes.gl.at.ply.gg:1357 => 127.0.0.1:1357 (proto: Udp, port count: 1)
 feed-celebrity.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734485168028 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734485430730 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
+track-makes.gl.at.ply.gg:1357 => 127.0.0.1:1357 (proto: Udp, port count: 1)
 feed-celebrity.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734485171093 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734485433837 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
+track-makes.gl.at.ply.gg:1357 => 127.0.0.1:1357 (proto: Udp, port count: 1)
 feed-celebrity.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734485174167 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734485436941 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
+track-makes.gl.at.ply.gg:1357 => 127.0.0.1:1357 (proto: Udp, port count: 1)
 feed-celebrity.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734485177234 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734485440024 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
+track-makes.gl.at.ply.gg:1357 => 127.0.0.1:1357 (proto: Udp, port count: 1)
 feed-celebrity.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734485180309 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734485443118 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
+track-makes.gl.at.ply.gg:1357 => 127.0.0.1:1357 (proto: Udp, port count: 1)
 feed-celebrity.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734485183398 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734485446248 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
+track-makes.gl.at.ply.gg:1357 => 127.0.0.1:1357 (proto: Udp, port count: 1)
 feed-celebrity.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734485186459 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734485449315 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
+track-makes.gl.at.ply.gg:1357 => 127.0.0.1:1357 (proto: Udp, port count: 1)
 feed-celebrity.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734485189544 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734485452441 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
+track-makes.gl.at.ply.gg:1357 => 127.0.0.1:1357 (proto: Udp, port count: 1)
 feed-celebrity.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734485192608 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734485455499 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
+track-makes.gl.at.ply.gg:1357 => 127.0.0.1:1357 (proto: Udp, port count: 1)
 feed-celebrity.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734485195683 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734485458568 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
+track-makes.gl.at.ply.gg:1357 => 127.0.0.1:1357 (proto: Udp, port count: 1)
 feed-celebrity.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734485198764 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734485461824 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
+track-makes.gl.at.ply.gg:1357 => 127.0.0.1:1357 (proto: Udp, port count: 1)
 feed-celebrity.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734485201838 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734485464891 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
+track-makes.gl.at.ply.gg:1357 => 127.0.0.1:1357 (proto: Udp, port count: 1)
 feed-celebrity.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734485204894 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734485467974 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
+track-makes.gl.at.ply.gg:1357 => 127.0.0.1:1357 (proto: Udp, port count: 1)
 feed-celebrity.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734485207971 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734485471046 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
+track-makes.gl.at.ply.gg:1357 => 127.0.0.1:1357 (proto: Udp, port count: 1)
 feed-celebrity.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734485211035 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734485474154 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
+track-makes.gl.at.ply.gg:1357 => 127.0.0.1:1357 (proto: Udp, port count: 1)
 feed-celebrity.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734485214106 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734485477236 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
+track-makes.gl.at.ply.gg:1357 => 127.0.0.1:1357 (proto: Udp, port count: 1)
 feed-celebrity.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734485217198 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734485480323 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
+track-makes.gl.at.ply.gg:1357 => 127.0.0.1:1357 (proto: Udp, port count: 1)
 feed-celebrity.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734485220272 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734485483397 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
+track-makes.gl.at.ply.gg:1357 => 127.0.0.1:1357 (proto: Udp, port count: 1)
+feed-celebrity.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734485486472 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+track-makes.gl.at.ply.gg:1357 => 127.0.0.1:1357 (proto: Udp, port count: 1)
+feed-celebrity.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734485489553 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+track-makes.gl.at.ply.gg:1357 => 127.0.0.1:1357 (proto: Udp, port count: 1)
+feed-celebrity.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734485492638 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+track-makes.gl.at.ply.gg:1357 => 127.0.0.1:1357 (proto: Udp, port count: 1)
+feed-celebrity.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734485495720 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+track-makes.gl.at.ply.gg:1357 => 127.0.0.1:1357 (proto: Udp, port count: 1)
+feed-celebrity.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734485498808 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+track-makes.gl.at.ply.gg:1357 => 127.0.0.1:1357 (proto: Udp, port count: 1)
+feed-celebrity.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734485501890 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+track-makes.gl.at.ply.gg:1357 => 127.0.0.1:1357 (proto: Udp, port count: 1)
+feed-celebrity.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734485504975 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+track-makes.gl.at.ply.gg:1357 => 127.0.0.1:1357 (proto: Udp, port count: 1)
+feed-celebrity.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734485508064 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+track-makes.gl.at.ply.gg:1357 => 127.0.0.1:1357 (proto: Udp, port count: 1)
+feed-celebrity.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734485511157 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+track-makes.gl.at.ply.gg:1357 => 127.0.0.1:1357 (proto: Udp, port count: 1)
+feed-celebrity.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734485514228 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+track-makes.gl.at.ply.gg:1357 => 127.0.0.1:1357 (proto: Udp, port count: 1)
+feed-celebrity.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734485517315 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+track-makes.gl.at.ply.gg:1357 => 127.0.0.1:1357 (proto: Udp, port count: 1)
+feed-celebrity.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734485520382 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+track-makes.gl.at.ply.gg:1357 => 127.0.0.1:1357 (proto: Udp, port count: 1)
+feed-celebrity.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734485523473 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+track-makes.gl.at.ply.gg:1357 => 127.0.0.1:1357 (proto: Udp, port count: 1)
+feed-celebrity.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734485526549 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+track-makes.gl.at.ply.gg:1357 => 127.0.0.1:1357 (proto: Udp, port count: 1)
+feed-celebrity.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734485529631 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+track-makes.gl.at.ply.gg:1357 => 127.0.0.1:1357 (proto: Udp, port count: 1)
+feed-celebrity.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734485532709 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+track-makes.gl.at.ply.gg:1357 => 127.0.0.1:1357 (proto: Udp, port count: 1)
+feed-celebrity.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734485535783 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+track-makes.gl.at.ply.gg:1357 => 127.0.0.1:1357 (proto: Udp, port count: 1)
+feed-celebrity.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734485538858 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+track-makes.gl.at.ply.gg:1357 => 127.0.0.1:1357 (proto: Udp, port count: 1)
+feed-celebrity.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734485541935 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+track-makes.gl.at.ply.gg:1357 => 127.0.0.1:1357 (proto: Udp, port count: 1)
+feed-celebrity.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734485545025 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+track-makes.gl.at.ply.gg:1357 => 127.0.0.1:1357 (proto: Udp, port count: 1)
+feed-celebrity.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734485548107 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+track-makes.gl.at.ply.gg:1357 => 127.0.0.1:1357 (proto: Udp, port count: 1)
+feed-celebrity.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734485551177 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+track-makes.gl.at.ply.gg:1357 => 127.0.0.1:1357 (proto: Udp, port count: 1)
+feed-celebrity.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734485554288 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+track-makes.gl.at.ply.gg:1357 => 127.0.0.1:1357 (proto: Udp, port count: 1)
+feed-celebrity.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734485557353 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+track-makes.gl.at.ply.gg:1357 => 127.0.0.1:1357 (proto: Udp, port count: 1)
+feed-celebrity.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734485560421 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+track-makes.gl.at.ply.gg:1357 => 127.0.0.1:1357 (proto: Udp, port count: 1)
+feed-celebrity.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734485563488 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+track-makes.gl.at.ply.gg:1357 => 127.0.0.1:1357 (proto: Udp, port count: 1)
+feed-celebrity.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734485566551 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+track-makes.gl.at.ply.gg:1357 => 127.0.0.1:1357 (proto: Udp, port count: 1)
+feed-celebrity.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734485569619 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+track-makes.gl.at.ply.gg:1357 => 127.0.0.1:1357 (proto: Udp, port count: 1)
+feed-celebrity.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734485572677 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+track-makes.gl.at.ply.gg:1357 => 127.0.0.1:1357 (proto: Udp, port count: 1)
+feed-celebrity.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734485575750 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+track-makes.gl.at.ply.gg:1357 => 127.0.0.1:1357 (proto: Udp, port count: 1)
+feed-celebrity.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734485578807 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+track-makes.gl.at.ply.gg:1357 => 127.0.0.1:1357 (proto: Udp, port count: 1)
+feed-celebrity.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734485581866 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+track-makes.gl.at.ply.gg:1357 => 127.0.0.1:1357 (proto: Udp, port count: 1)
+feed-celebrity.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734485584956 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+track-makes.gl.at.ply.gg:1357 => 127.0.0.1:1357 (proto: Udp, port count: 1)
+feed-celebrity.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734485588024 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+track-makes.gl.at.ply.gg:1357 => 127.0.0.1:1357 (proto: Udp, port count: 1)
+feed-celebrity.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734485591095 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+track-makes.gl.at.ply.gg:1357 => 127.0.0.1:1357 (proto: Udp, port count: 1)
+feed-celebrity.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734485594155 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+track-makes.gl.at.ply.gg:1357 => 127.0.0.1:1357 (proto: Udp, port count: 1)
+feed-celebrity.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734485597228 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+track-makes.gl.at.ply.gg:1357 => 127.0.0.1:1357 (proto: Udp, port count: 1)
+feed-celebrity.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734485600334 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+track-makes.gl.at.ply.gg:1357 => 127.0.0.1:1357 (proto: Udp, port count: 1)
+feed-celebrity.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734485603404 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+track-makes.gl.at.ply.gg:1357 => 127.0.0.1:1357 (proto: Udp, port count: 1)
+feed-celebrity.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734485606461 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+track-makes.gl.at.ply.gg:1357 => 127.0.0.1:1357 (proto: Udp, port count: 1)
+feed-celebrity.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734485609532 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+track-makes.gl.at.ply.gg:1357 => 127.0.0.1:1357 (proto: Udp, port count: 1)
+feed-celebrity.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734485612597 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+track-makes.gl.at.ply.gg:1357 => 127.0.0.1:1357 (proto: Udp, port count: 1)
+feed-celebrity.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734485615670 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+track-makes.gl.at.ply.gg:1357 => 127.0.0.1:1357 (proto: Udp, port count: 1)
+feed-celebrity.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734485618725 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+track-makes.gl.at.ply.gg:1357 => 127.0.0.1:1357 (proto: Udp, port count: 1)
+feed-celebrity.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734485621789 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+track-makes.gl.at.ply.gg:1357 => 127.0.0.1:1357 (proto: Udp, port count: 1)
+feed-celebrity.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734485624842 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+track-makes.gl.at.ply.gg:1357 => 127.0.0.1:1357 (proto: Udp, port count: 1)
+feed-celebrity.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1734485627912 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+track-makes.gl.at.ply.gg:1357 => 127.0.0.1:1357 (proto: Udp, port count: 1)
 feed-celebrity.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
